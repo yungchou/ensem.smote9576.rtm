@@ -1,0 +1,12 @@
+
+
+Total observations =  9576+    c('train','test','hold')
++   ,c(nrow(train),nrow(test),nrow(hold))
++   ));colnames(data.usage) <- c('usage','obs.');data.usage
+     usage obs.
+[1,] train 5696
+[2,] test  1963
+[3,] hold  1917
+
+
+
